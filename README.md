@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Nicolás Arévalo
+### Data Scientist Junior
+
+Passionate programmer, Tripleten student in the Data Science bootcamp.
+
+With experience in data cleaning, analysis, and visualization, as well as the use of machine learning. 
+
+## Skills
+![Python](https://img.shields.io/badge/Python?style=flat&logo=Python&logoColor=255%2C%20255%2C%20255)
+
+
+Knowledge of Python, SQL, HTML, Firebase, and CSS.
+
 
 <!--
 **nicolukas0631/nicolukas0631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
