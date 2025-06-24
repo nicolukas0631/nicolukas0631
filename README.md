@@ -7,7 +7,8 @@ With experience in data cleaning, analysis, and visualization, as well as the us
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whitelabelColor=101010)<br>
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=255%2C%20255%2C%20255&logoSize=auto&labelColor=255%2C%200%2C%200&color=255%2C%20255%2C%20255)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=255%2C%20255%2C%20255&logoSize=auto&labelColor=whitecolor=255%2C%20255%2C%20255)
+
 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
