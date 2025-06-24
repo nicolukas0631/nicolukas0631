@@ -7,15 +7,14 @@ With experience in data cleaning, analysis, and visualization, as well as the us
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)<br>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=255%2C%20255%2C%20255&logoSize=auto&labelColor=white&color=255%2C%20255%2C%20255)<
-![Python](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)<br>
-postgresql
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=255%2C%20255%2C%20255&logoSize=auto&labelColor=white&color=255%2C%20255%2C%20255)<br>
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)<br>
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)<br>
 
 
 
-Knowledge of Python, SQL, HTML, Firebase, and CSS.
+
+
 
 
 <!--
