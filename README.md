@@ -6,8 +6,8 @@ Passionate programmer, Tripleten student in the Data Science bootcamp.
 With experience in data cleaning, analysis, and visualization, as well as the use of machine learning. 
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=255%2C%20255%2C%20255)<br>
-![Static Badge](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=255%2C%20255%2C%20255&logoSize=auto&labelColor=255%2C%200%2C%200&color=255%2C%20255%2C%20255)
+![Static Badge](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=255%2C%20255%2C%20255)<br>
+![Static Badge](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=255%2C%20255%2C%20255&logoSize=auto&labelColor=255%2C%200%2C%200&color=255%2C%20255%2C%20255)
 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
