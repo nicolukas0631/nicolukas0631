@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
-  
+</div>
+
 ### Data Scientist Junior
 
 Data Scientist Junior, passionate programmer, with experience in data cleaning, analysis, and visualization, as well as the use of machine learning. Improving always in the tech world.
