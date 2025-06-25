@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/nicolukas0631/nicolukas0631/blob/main/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png" width="800"/>
 </div>
 
 ### Data Scientist Junior
